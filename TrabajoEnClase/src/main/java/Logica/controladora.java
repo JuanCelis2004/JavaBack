@@ -7,10 +7,7 @@ package Logica;
 import java.util.List;
 import persistencia.controladoraPersistencia;
 
-/**
- *
- * @author HOGAR
- */
+
 public class controladora {
     controladoraPersistencia controlPersis = new controladoraPersistencia();
     

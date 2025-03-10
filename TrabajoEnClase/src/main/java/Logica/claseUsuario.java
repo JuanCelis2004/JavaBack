@@ -10,10 +10,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-/**
- *
- * @author HOGAR
- */
+
 @Entity
 public class claseUsuario implements Serializable {
 
@@ -76,11 +73,4 @@ public class claseUsuario implements Serializable {
     public void setTelefono(String telefono) {
         this.telefono = telefono;
     }
-
-    
-    
-
-    //cosas que no van el el codigo lindo
-    
-    
 }

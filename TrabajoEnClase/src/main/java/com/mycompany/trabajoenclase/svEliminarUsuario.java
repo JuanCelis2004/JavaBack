@@ -40,16 +40,17 @@ public class svEliminarUsuario extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         
-        int id_eliminar = Integer.parseInt(request.getParameter("id_usuario"));
+        int id_eliminar = Integer.parseInt(request.getParameter("id_usuarioEliminar"));
         control.borrarUsuario(id_eliminar);
-        response.sendRedirect("index.jsp");
         
+        svUsuarios servlet  = new svUsuarios();
+        servlet.doGet(request, response);
     }
 
    
     @Override
     public String getServletInfo() {
         return "Short description";
-    }// </editor-fold>
+    }
 
 }
