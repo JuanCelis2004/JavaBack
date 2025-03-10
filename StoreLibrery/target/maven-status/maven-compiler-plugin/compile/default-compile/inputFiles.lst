@@ -1,0 +1,13 @@
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Model\Author.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Model\Book.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Model\Category.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Model\Loan.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Model\User.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Persistence\AuthorJpaController.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Persistence\BookJpaController.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Persistence\CategoryJpaController.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Persistence\exceptions\IllegalOrphanException.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Persistence\exceptions\NonexistentEntityException.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Persistence\exceptions\PreexistingEntityException.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Persistence\LoanJpaController.java
+C:\Users\HOGAR\Documents\NetBeansProjects\StoreLibrery\src\main\java\Persistence\UserJpaController.java

@@ -1,0 +1,12 @@
+Logica\controladora.class
+persistencia\claseUsuarioJpaController.class
+Logica\claseUsuario.class
+com\mycompany\trabajoenclase\NewServlet.class
+persistencia\controladoraPersistencia.class
+com\mycompany\trabajoenclase\svEditarUsuario.class
+Logica\claseUsuario_.class
+com\mycompany\trabajoenclase\svEliminarUsuario.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\trabajoenclase\svUsuarios.class
+persistencia\exceptions\IllegalOrphanException.class
